@@ -54,7 +54,7 @@ body {
   width: 16px;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 640px) {
   .search input {
     width: 90%;
   }
@@ -108,7 +108,7 @@ body {
 }
 
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 640px) {
   .weather h1 {
     font-size: 60px;
   }
